@@ -1,4 +1,4 @@
-# REACT-GOOGLE-CLONE (Hosted Link)
+# REACT-GOOGLE-CLONE (Firebase Hosted Link)
 
 LINK ~ https://clone-aa449.web.app/
 
