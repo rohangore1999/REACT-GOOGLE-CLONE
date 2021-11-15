@@ -1,4 +1,4 @@
-# REACT-GOOGLE-CLONE (Firebase Hosted Link)
+# REACT-GOOGLE-CLONE using REACT REDUX-CONTEXT-API and CUSTOM HOOKS(Firebase Hosted Link)
 
 LINK ~ https://clone-aa449.web.app/
 
